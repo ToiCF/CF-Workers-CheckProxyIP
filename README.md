@@ -191,3 +191,7 @@ Worker 会把候选入口分别连到这些目标，再综合结果推断这条 
 
 - 开源协议：[GPL-3.0](./LICENSE)
 - 频道 / 交流群组：<https://t.me/Enkelte_notif>
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/ToiCF/CF-Workers-CheckProxyIP.svg?variant=adaptive)](https://starchart.cc/ToiCF/CF-Workers-CheckProxyIP)
